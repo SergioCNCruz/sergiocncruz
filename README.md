@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sergio C. N. Cruz</h1>
+<h1 align="left">Hi 👋, I'm Sérgio C. N. Cruz</h1>
 <h3 align="left">A passionate software engineer from Brasil</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiocncruz&show_icons=true&locale=en&theme=dark" alt="sergiocncruz" /></p>
